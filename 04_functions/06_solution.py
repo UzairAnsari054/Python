@@ -3,5 +3,5 @@
 
 # result = add(2)
 
-cube = lambda x: x ** 2
+cube = lambda x: x ** 3
 print(cube(3))
